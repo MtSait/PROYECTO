@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/slime_001.ogg-17c3868909da8df68cd9fe7b5fd206da.oggstr"
+
+[deps]
+
+source_file="res://AssetsTemporales/kenney_sci-fi-sounds/Audio/slime_001.ogg"
+dest_files=[ "res://.import/slime_001.ogg-17c3868909da8df68cd9fe7b5fd206da.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

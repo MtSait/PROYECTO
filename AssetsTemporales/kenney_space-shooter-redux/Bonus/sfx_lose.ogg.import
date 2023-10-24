@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/sfx_lose.ogg-dc679c2cee8bb09d942d851b3b20811f.oggstr"
+
+[deps]
+
+source_file="res://AssetsTemporales/kenney_space-shooter-redux/Bonus/sfx_lose.ogg"
+dest_files=[ "res://.import/sfx_lose.ogg-dc679c2cee8bb09d942d851b3b20811f.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
