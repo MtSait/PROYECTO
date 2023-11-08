@@ -7,4 +7,3 @@
 [node name="Player" parent="." instance=ExtResource( 1 )]
 position = Vector2( 469, 253 )
 mass = 51.0204
-gravity_scale = 2.0
