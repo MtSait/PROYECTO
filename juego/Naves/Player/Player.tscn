@@ -11,9 +11,12 @@ radius = 37.0135
 [node name="Player" type="RigidBody2D"]
 physics_material_override = ExtResource( 2 )
 gravity_scale = 0.0
+can_sleep = false
 linear_damp = 1.0
-angular_damp = 4.0
+angular_damp = 8.0
 script = ExtResource( 3 )
+potencia_motor = 350
+potencia_rotacion = 250
 
 [node name="Sprite" type="Sprite" parent="."]
 rotation = 1.5708
