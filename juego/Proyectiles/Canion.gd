@@ -51,5 +51,5 @@ func disparar() -> void:
 			)
 		Eventos.emit_signal("disparo", new_proyectil)
 
-func _on_TimerEnfriamiento_timeout():
+func _on_TimerEnfriamiento_timeout() -> void:
 	esta_enfriado = true

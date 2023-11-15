@@ -4,7 +4,6 @@
 [ext_resource path="res://juego/Proyectiles/Proyectil.gd" type="Script" id=2]
 
 [sub_resource type="CapsuleShape2D" id=1]
-radius = 10.0
 height = 30.0
 
 [node name="Proyectil" type="Area2D"]
@@ -20,3 +19,5 @@ rotation = 1.5708
 shape = SubResource( 1 )
 
 [node name="VisibilityNotifier2D" type="VisibilityNotifier2D" parent="."]
+
+[connection signal="screen_exited" from="VisibilityNotifier2D" to="." method="_on_VisibilityNotifier2D_screen_exited"]
