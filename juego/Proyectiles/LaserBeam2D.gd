@@ -49,6 +49,7 @@ func set_is_casting(cast: bool) -> void:
 		cast_to = Vector2.ZERO
 		fill.points[1] = cast_to
 		appear()
+		
 	else:
 		# Reset the laser endpoint
 		fill.points[1] = Vector2.ZERO
