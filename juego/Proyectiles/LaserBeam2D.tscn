@@ -2,7 +2,7 @@
 
 [ext_resource path="res://juego/Proyectiles/LaserBeam2D.gd" type="Script" id=1]
 [ext_resource path="res://juego/Proyectiles/glowing_circle.png" type="Texture" id=2]
-[ext_resource path="res://juego/SFX/Laser_shoot .wav" type="AudioStream" id=3]
+[ext_resource path="res://juego/SFX/disparo_laser.ogg" type="AudioStream" id=3]
 
 [sub_resource type="Gradient" id=1]
 offsets = PoolRealArray( 0.582915, 1 )
